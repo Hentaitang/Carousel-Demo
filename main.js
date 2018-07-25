@@ -11,6 +11,7 @@ for(let i=0;i<allButtons.length;i++){
   })
 }
 
+
 var n = 0
 var size = allButtons.length
 var timer = setInterval(()=>{
